@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+node_modules/
+.DS_Store
+*.log
+# Frappe auto-exports public Workspaces to disk in developer mode; the managed
+# workspaces here are generated dynamically from config and are environment
+# specific, so they are not part of the source.
+insights_sidebar/insights_sidebar/workspace/
