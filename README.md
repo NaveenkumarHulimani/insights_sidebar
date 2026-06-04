@@ -8,6 +8,19 @@ frame.
 
 Built and tested on **Frappe v16** (the same approach works on v14 / v15).
 
+## Screenshots
+
+**In-place viewer** — the role-filtered **Sales Analytics** item injected into the
+Desk sidebar, rendering an Insights dashboard inside an iframe (no reload, no new
+tab, item stays highlighted):
+
+![In-place Insights dashboard inside the Frappe Desk](docs/sidebar-inplace-dashboard.png)
+
+**Configuration DocType** — `Insights Sidebar Config` (Label, Dashboard → Insights
+Dashboard, Roles → Has Role):
+
+![Insights Sidebar Config DocType](docs/config-doctype-form.png)
+
 ---
 
 ## Table of contents
