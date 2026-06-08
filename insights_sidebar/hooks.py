@@ -1,8 +1,8 @@
 app_name = "insights_sidebar"
 app_title = "Insights Sidebar"
-app_publisher = "Univision Technocon"
+app_publisher = "Naveenkumar Hulimani"
 app_description = "Dynamically inject role-based Insights dashboards into the Frappe Desk sidebar, rendered in-place via an iframe."
-app_email = "shekar@univisiontechnocon.com"
+app_email = "naveenkumarh1998@gmail.com"
 app_license = "mit"
 app_version = "0.0.1"
 

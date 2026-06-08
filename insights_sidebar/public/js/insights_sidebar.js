@@ -1,4 +1,4 @@
-// Copyright (c) 2026, Univision Technocon and contributors
+// Copyright (c) 2026, Naveenkumar Hulimani and contributors
 // For license information, please see license.txt
 //
 // Desk sidebar injector.

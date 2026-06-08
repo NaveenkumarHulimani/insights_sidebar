@@ -1,7 +1,7 @@
 [project]
 name = "insights_sidebar"
 authors = [
-    { name = "Univision Technocon", email = "shekar@univisiontechnocon.com" }
+    { name = "Naveenkumar Hulimani", email = "naveenkumarh1998@gmail.com" }
 ]
 description = "Dynamically inject role-based Insights dashboards into the Frappe Desk sidebar, rendered in-place via an iframe."
 requires-python = ">=3.10"
